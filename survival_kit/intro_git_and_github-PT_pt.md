@@ -65,10 +65,15 @@ https://git-scm.com/download/mac
 ## Criar primeiro repositório no GitHub
 É possivel criar um repositorio inicialmente no teu computador, e depois fazeres um clone para o GitHub, no entanto,
 para simplificar, vamos criar o repositório directamente no GitHub.
+
+(...)
+
+![img1](https://raw.githubusercontent.com/HardwareCity/hardwarecity_sunset_hackathon_2017/master/survival_kit/img/GitHub-New_Repository.png)
  
 
 ## Baixar um repositório já existente no GitHub
 TO DO
+![img1](https://raw.githubusercontent.com/HardwareCity/hardwarecity_sunset_hackathon_2017/master/survival_kit/img/GitHub-Clone_Repository.png)
 
 ## Comandos mais usados
 
