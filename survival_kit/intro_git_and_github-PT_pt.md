@@ -49,6 +49,9 @@ Existem outros serviços semelhantes ao GitHub, como por exemplo o [Bitbucket](h
 criar de forma gratuita repositórios privados. Podes também criar o teu próprio servidor de Git, mas visto que estás a 
 ler o manual de introdução ao Git, não me parece que devas partir já por esse caminho. :)
 
+Além de poderes alojar o teu código no GitHub, ele também te oferece algumas funcionalidades interessantes, por exemplo,
+podes fazer uma gestão dos bugs e features a implementar.  
+
 ## Instalação
 
 ### Windows
