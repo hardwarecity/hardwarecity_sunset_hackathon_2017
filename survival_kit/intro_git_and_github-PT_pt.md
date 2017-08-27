@@ -79,15 +79,19 @@ TO DO
 `git config --global user.email "meu@email.com"`
 
 ## Criar primeiro repositório no GitHub
-É possivel começares por criar um repositorio no teu computador, e depois fazeres um clone para o GitHub, no entanto,
-para simplificar, vamos criar o repositório directamente no GitHub, e depois fazer o clone para o teu computador e dos 
-teus colegas de equipa.
+É possivel começares por criar um repositorio no teu computador, e depois fazeres um clone desse repositório para o 
+GitHub, no entanto, para simplificar, vamos criar o repositório directamente no GitHub, e depois fazer o clone para o 
+teu computador e dos teus colegas de equipa.
 
 1º Após criares uma conta no GitHub, clica em `New Repository` para criares um novo repositório.
 
 ![img](https://raw.githubusercontent.com/HardwareCity/hardwarecity_sunset_hackathon_2017/master/survival_kit/img/GitHub-New_Repository.png)
 
-2º Coloca o nome que vais dar ao teu repositório, tem em atenção que se mudares o nome do repositório, 
+2º Coloca o nome que vais dar ao teu repositório.
+
+> **Nota:**
+> 
+> Tem em atenção que se mais tarde mudares o nome do repositório, 
 todas as pessoas que já fizerem um clone de repositório terão que editar o ficheiro de configurações, ou voltar a fazer 
 um clone do repositório, pois o URL do repositório será diferente.
 
