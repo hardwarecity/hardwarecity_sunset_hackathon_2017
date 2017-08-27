@@ -103,8 +103,30 @@ um clone do repositório, pois o URL do repositório será diferente.
  
 
 ## Baixar um repositório já existente no GitHub
-TO DO
+
+Sempre que pretenderes clonar para o teu computador um repositório do GitHub, deves abrir esse mesmo repositório, e 
+clicar no botão `Clone or download`, de seguida deves copiar o URL `https://github...` 
+
 ![img](https://raw.githubusercontent.com/HardwareCity/hardwarecity_sunset_hackathon_2017/master/survival_kit/img/GitHub-Clone_Repository.png)
+
+
+Agora que copiaste o URL do projecto, vais fazer um `git clone`, para isso tens várias opções:
+
+* Executar na linha de comandos
+
+`git clone https://github.com/HardwareCity/hardwarecity_sunset_hackathon_2017.git`
+
+![img](https://raw.githubusercontent.com/HardwareCity/hardwarecity_sunset_hackathon_2017/master/survival_kit/img/git_clone_url.png)
+
+* Utilizar um GUI
+
+![img](https://raw.githubusercontent.com/HardwareCity/hardwarecity_sunset_hackathon_2017/master/survival_kit/img/TODO)
+
+* Utilizar um plugin no explorador de ficheiros
+
+![img](https://raw.githubusercontent.com/HardwareCity/hardwarecity_sunset_hackathon_2017/master/survival_kit/img/TODO)
+
+Agora que já tens o repositório no teu computador, podes executar todos os comandos git que vamos descrever de seguida.
 
 ## Comandos mais usados
 
