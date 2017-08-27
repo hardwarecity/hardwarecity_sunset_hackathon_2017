@@ -19,11 +19,23 @@ Podes melhorar este documento, editando-o, só tens que dominar o git :)
 
 ## O que é o Git?
 O [git](https://git-scm.com/) é um sistema de controlo de versões distribuido, e um sistema de gestão de código-fonte, 
-ou seja, quando escreveres código, podes ir assinalando momentos importantes, em que é salvo uma cópia do trabalho, 
+ou seja, quando escreveres código, podes ir assinalando momentos importantes (`commit`), em que é salvo uma cópia do trabalho, 
 podes mais tarde reverter para algum dos pontos anteriores. Também podes sincronizar esse ficheiro com os teus colegas 
 de equipa, em que o git automáticamente compara as diferenças e junta as
 alterações que as pessoas fizeram. Existem outros protocolos semelhantes ao Git, como por exemplo o Subversion, mas o 
 Git é dos mais completos, e dos mais usados.
+
+> **Exemplo de vários commits**
+>
+> Podes reverter o código para qualquer um dos commits anteriormente assinalados  
+>
+> ![img](https://raw.githubusercontent.com/HardwareCity/hardwarecity_sunset_hackathon_2017/master/survival_kit/img/git_commits.png =250x)
+
+
+> **Exemplo de alterações feitas num ficheiro entre dois commits**
+>
+> ![img](https://raw.githubusercontent.com/HardwareCity/hardwarecity_sunset_hackathon_2017/master/survival_kit/img/git_diff.png =250x)
+
 
 Independentemente do teu sistema operativo, vais precisar de instalar o protocolo git, que normalmente é executado na 
 linha de comandos, mas para facilitar a vida, podes instalar um GUI para git, de forma a não teres que memorizar os 
@@ -115,23 +127,26 @@ clicar no botão `Clone or download`, de seguida deves copiar o URL `https://git
 
 Agora que copiaste o URL do projecto, vais fazer um `git clone`, para isso tens várias opções:
 
-* Executar na linha de comandos
+* Opção 1: Executar na linha de comandos
 
 `git clone https://github.com/HardwareCity/hardwarecity_sunset_hackathon_2017.git`
 
 ![img](https://raw.githubusercontent.com/HardwareCity/hardwarecity_sunset_hackathon_2017/master/survival_kit/img/git_clone_url.png)
 
-* Utilizar um GUI
+* Opção 2: Utilizar um GUI
 
 ![img](https://raw.githubusercontent.com/HardwareCity/hardwarecity_sunset_hackathon_2017/master/survival_kit/img/TODO)
 
-* Utilizar um plugin no explorador de ficheiros
+* Opção 3: Utilizar um plugin no explorador de ficheiros
 
 ![img](https://raw.githubusercontent.com/HardwareCity/hardwarecity_sunset_hackathon_2017/master/survival_kit/img/TODO)
 
 Agora que já tens o repositório no teu computador, podes executar todos os comandos git que vamos descrever de seguida.
 
 ## Comandos mais usados
+
+### git clone
+TO DO
 
 ### git commit
 TO DO
