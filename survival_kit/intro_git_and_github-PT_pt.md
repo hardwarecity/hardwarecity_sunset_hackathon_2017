@@ -44,13 +44,13 @@ programa. Podes instalar estes 3 software independentemente, ou podes instalar l
 
 ## O que é o GitHub?
 O [GitHub](https://github.com/) é um serviço de "alojamento" de repositórios Git. Grandes projectos opensource costumam
-ter o código disponível no GitHub, como por exemplo a [BeeVeryCreative](https://github.com/beeverycreative), a [DJI](https://github.com/dji-sdk), a [bitcoin](https://github.com/bitcoin), o [bitalino](https://github.com/BITalinoWorld), etc. 
+ter o código disponível no GitHub, como por exemplo a [BeeVeryCreative](https://github.com/beeverycreative), a [DJI](https://github.com/dji-sdk), a [bitcoin](https://github.com/bitcoin), o [bitalino](https://github.com/BITalinoWorld), o [arduino](https://github.com/arduino), etc. 
 Existem outros serviços semelhantes ao GitHub, como por exemplo o [Bitbucket](https://bitbucket.org/), que te permite 
 criar de forma gratuita repositórios privados. Podes também criar o teu próprio servidor de Git, mas visto que estás a 
 ler o manual de introdução ao Git, não me parece que devas partir já por esse caminho. :)
 
 Além de poderes alojar o teu código no GitHub, ele também te oferece algumas funcionalidades interessantes, por exemplo,
-podes fazer uma gestão dos _bugs_ e _features_ a implementar, podes também editar of ficheiros directamente no browser, 
+podes fazer uma gestão dos _issues_ e _features_ a implementar, podes também editar of ficheiros directamente no browser, 
 etc.  
 
 ## Instalação
@@ -236,3 +236,13 @@ versões de código mais "estáveis".
 `git status`
 Com o comando `git status` o git mostra-te o estado actual do repositório (que ficheiros novos ainda não foram 
 adicionados, que ficheiros estão alterados em relação ao ultimo commit, etc.)
+
+
+### git fork
+Podes criar um novo repositório baseado num repositório já existente, a isto chama-se um fork.
+Podes a qualquer altura actualizar o teu projecto com as actualizações que foram feitas no projecto principal, ou 
+submeter um pedido para que os autores do projecto inicial incluam as tuas alterações feitos ao projecto inicial.
+
+No GitHub, podes fazer um fork clicando directamente no botão `fork`
+
+![img](https://raw.githubusercontent.com/HardwareCity/hardwarecity_sunset_hackathon_2017/master/survival_kit/img/GitHub-fork.png)
