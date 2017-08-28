@@ -95,7 +95,7 @@ Caso ainda não tenhas o git instalado, podes instalar o git por exemplo pelo si
 [https://git-scm.com/downloads](https://git-scm.com/downloads)
 
 Para facilitar a utilização do git, podes utilizar o GUI do GitHub [https://desktop.github.com/](https://desktop.github.com/)
-![img](https://raw.githubusercontent.com/HardwareCity/hardwarecity_sunset_hackathon_2017/master/survival_kit/img/GitHub-Desktop.png)
+![img](https://raw.githubusercontent.com/HardwareCity/hardwarecity_sunset_hackathon_2017/master/10_survival_kit/20_tutorials/img/GitHub-Desktop.png)
 
 
 
@@ -115,7 +115,7 @@ teu computador e dos teus colegas de equipa.
 
 1º Após criares uma conta no GitHub, clica em `New Repository` para criares um novo repositório.
 
-![img](https://raw.githubusercontent.com/HardwareCity/hardwarecity_sunset_hackathon_2017/master/survival_kit/img/GitHub-New_Repository.png)
+![img](https://raw.githubusercontent.com/HardwareCity/hardwarecity_sunset_hackathon_2017/master/10_survival_kit/20_tutorials/img/GitHub-New_Repository.png)
 
 2º Coloca o nome que vais dar ao teu repositório.
 
@@ -125,11 +125,11 @@ teu computador e dos teus colegas de equipa.
 todas as pessoas que já fizerem um clone de repositório terão que editar o ficheiro de configurações, ou voltar a fazer 
 um clone do repositório, pois o URL do repositório será diferente.
 
-![img](https://raw.githubusercontent.com/HardwareCity/hardwarecity_sunset_hackathon_2017/master/survival_kit/img/GitHub-New_Repository-Insert_Name.png)
+![img](https://raw.githubusercontent.com/HardwareCity/hardwarecity_sunset_hackathon_2017/master/10_survival_kit/20_tutorials/img/GitHub-New_Repository-Insert_Name.png)
 
 3º Podes agora adicionar os teus colegas de equipa ao repositório, adicionado colaboradores.
 
-![img](https://raw.githubusercontent.com/HardwareCity/hardwarecity_sunset_hackathon_2017/master/survival_kit/img/GitHub-Repository-Add_Collaborator.png)
+![img](https://raw.githubusercontent.com/HardwareCity/hardwarecity_sunset_hackathon_2017/master/10_survival_kit/20_tutorials/img/GitHub-Repository-Add_Collaborator.png)
  
 
 ## Baixar um repositório já existente no GitHub
@@ -137,7 +137,7 @@ um clone do repositório, pois o URL do repositório será diferente.
 Sempre que pretenderes clonar para o teu computador um repositório do GitHub, deves abrir esse mesmo repositório, e 
 clicar no botão `Clone or download`, de seguida deves copiar o URL `https://github...` 
 
-![img](https://raw.githubusercontent.com/HardwareCity/hardwarecity_sunset_hackathon_2017/master/survival_kit/img/GitHub-Clone_Repository.png)
+![img](https://raw.githubusercontent.com/HardwareCity/hardwarecity_sunset_hackathon_2017/master/10_survival_kit/20_tutorials/img/GitHub-Clone_Repository.png)
 
 
 Agora que copiaste o URL do projecto, vais fazer um `git clone`, para isso tens várias opções:
@@ -146,15 +146,15 @@ Agora que copiaste o URL do projecto, vais fazer um `git clone`, para isso tens 
 
 `git clone https://github.com/HardwareCity/hardwarecity_sunset_hackathon_2017.git`
 
-![img](https://raw.githubusercontent.com/HardwareCity/hardwarecity_sunset_hackathon_2017/master/survival_kit/img/git_clone_url.png)
+![img](https://raw.githubusercontent.com/HardwareCity/hardwarecity_sunset_hackathon_2017/master/10_survival_kit/20_tutorials/img/git_clone_url.png)
 
 * Opção 2: Utilizar um GUI
 
-![img](https://raw.githubusercontent.com/HardwareCity/hardwarecity_sunset_hackathon_2017/master/survival_kit/img/GitHub-Desktop.png)
+![img](https://raw.githubusercontent.com/HardwareCity/hardwarecity_sunset_hackathon_2017/master/10_survival_kit/20_tutorials/img/GitHub-Desktop.png)
 
 * Opção 3: Utilizar um plugin no explorador de ficheiros
 
-![img](https://raw.githubusercontent.com/HardwareCity/hardwarecity_sunset_hackathon_2017/master/survival_kit/img/TODO)
+![img](https://raw.githubusercontent.com/HardwareCity/hardwarecity_sunset_hackathon_2017/master/10_survival_kit/20_tutorials/img/TODO)
 
 Agora que já tens o repositório no teu computador, podes executar todos os comandos git que vamos descrever de seguida.
 
@@ -245,4 +245,4 @@ submeter um pedido para que os autores do projecto inicial incluam as tuas alter
 
 No GitHub, podes fazer um fork clicando directamente no botão `fork`
 
-![img](https://raw.githubusercontent.com/HardwareCity/hardwarecity_sunset_hackathon_2017/master/survival_kit/img/GitHub-fork.png)
+![img](https://raw.githubusercontent.com/HardwareCity/hardwarecity_sunset_hackathon_2017/master/10_survival_kit/20_tutorials/img/GitHub-fork.png)
