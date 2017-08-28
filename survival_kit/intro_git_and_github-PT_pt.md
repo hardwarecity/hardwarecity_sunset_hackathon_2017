@@ -74,26 +74,38 @@ Antes de instalares o git, confirma se já o tens instalado, abre o terminal e e
 `git --version`
 > git version 2.13.0
 
-Caso ainda não tenhas Podes instalar o git pelo terminal. Executa o comando correspondente ao teu sistema operativo:
+Caso ainda não tenhas o git instalado, podes instalar o git pelo terminal.
+Executa o comando correspondente ao teu sistema operativo:
 
-#### Sistemas baseados em Debian, como Ubuntu, Raspbian, Mint, etc.
-`sudo apt-get install git-core`
-#### Sistemas baseados em Red Hat, como CentOS, etc.
-`sudo yum install git`
+* Sistemas baseados em Debian, como Ubuntu, Raspbian, Mint, etc.
+* *  `sudo apt-get install git-core`
+
+* Sistemas baseados em Red Hat, como CentOS, etc.
+* * `sudo yum install git`
 
 ### Mac OSx
-TO DO
 
-https://sourceforge.net/projects/git-osx-installer/files/
+Antes de instalares o git, confirma se já o tens instalado, abre o terminal e executa 
 
-https://git-scm.com/download/mac
+`git --version`
+> git version 2.13.0
+
+Caso ainda não tenhas o git instalado, podes instalar o git por exemplo pelo site do git 
+[https://git-scm.com/downloads](https://git-scm.com/downloads)
+
+Para facilitar a utilização do git, podes utilizar o GUI do GitHub [https://desktop.github.com/](https://desktop.github.com/)
+![img](https://raw.githubusercontent.com/HardwareCity/hardwarecity_sunset_hackathon_2017/master/survival_kit/img/GitHub-Desktop.png)
+
+
 
 ## Após a instalação
-TO DO
+Sempre que fizeres um commit, ficará registado o teu nome e o teu e-mail, se ainda não configuraste o git com essas 
+informações, podes faze-lo executando os seguintes comandos no terminal (dentro do repositório)
 
 `git config --global user.name "Meu Nome"`
 
 `git config --global user.email "meu@email.com"`
+
 
 ## Criar primeiro repositório no GitHub
 É possivel começares por criar um repositorio no teu computador, e depois fazeres um clone desse repositório para o 
@@ -137,7 +149,7 @@ Agora que copiaste o URL do projecto, vais fazer um `git clone`, para isso tens 
 
 * Opção 2: Utilizar um GUI
 
-![img](https://raw.githubusercontent.com/HardwareCity/hardwarecity_sunset_hackathon_2017/master/survival_kit/img/TODO)
+![img](https://raw.githubusercontent.com/HardwareCity/hardwarecity_sunset_hackathon_2017/master/survival_kit/img/GitHub-Desktop.png)
 
 * Opção 3: Utilizar um plugin no explorador de ficheiros
 
@@ -148,18 +160,78 @@ Agora que já tens o repositório no teu computador, podes executar todos os com
 ## Comandos mais usados
 
 ### git clone
-TO DO
+`git clone https://github.com/HardwareCity/hardwarecity_sunset_hackathon_2017.git`
+
+Utilizas o git clone quando queres copiar um repositório que está no GitHub para o teu computador 
+
+### git add
+`git add file1.txt file2.txt filen.txt`
+
+`git add -A`
+
+Utilizas o git add quando pretende que um determinado ficheiro novo passe a ser controlado pelo git, ou seja, sempre que
+criares um ficheiro novo no teu projecto, ele não ficará automáticamente sob o efeito do controlo de versões do git, 
+terás que fazer um git add do ficheiro, ou um `git add -A` para que sejam adicionaados todos os ficheiros dentro dessa 
+pasta e subpastas. 
 
 ### git commit
-TO DO
+`git commit file1.txt file2.txt filen.txt`
+
+`git commit -a`
+
+`git commit -a -m "Isto é um comentário associado ao commit"`
+
+Este deve ser o comando que mais vais utilizar, serve para fixares um estado nos ficheiros, ou seja, é feito uma cópia 
+dos ficheiros, onde poderás mais tarde reverter o histórico para este ponto.
+
+Cada commit é acompanhado por um comentário de forma a dares a entender à tua equipa das alterações que fizeste.
+
+Podes fazer commit de ficheiros isolados, ou de todos os ficheiros já controlados pelo git, fazendo `git commit -a`.
+(Serão ignoratos todos os ficheiros que ainda não tenham sido adicionados com `git add`, e todos os que estiverem dentro
+ do ficheiro `.gitignore`)
+
+> **Nota:**
+>
+> Todos os commits são feitos localmente, no teu computador, as alterações só serão enviadas para o servidor após um 
+> `git push`. Aconselhamos-te a que sempre que fizeres um `commit`, faças também um `push`, de forma a que no GitHub
+> tens o código sempre actualizado, e facilita a sincronização com os teus colegas de equipa, evitando conflitos. 
 
 ### git push
-TO DO
+`git push origin master`
+
+Com o `git push`, vais enviar todos os teus commits para o repositório no GitHub, a partir desse momento, os teus 
+colegas podem fazer um `git pull` para receberem o teu código.
+
+Como o git funciona com branchs, no comando `git push` tens que dizer qual o branch a ser utilizado. 
+Por omissão estás no branch "master". 
+
+> **Nota:**
+> 
+> Aconselhamos-te a que sempre que fizeres um `git push`, que faças também um `git pull`, de forma a que após enviares
+> as tuas alterações para o servidor, também recebas as alterações dos teus colegas de equipa. 
+
 
 ### git pull
-TO DO
+`git pull origin master`
+
+Com o `git pull`, vais receber dos teus colegas, todos os commits que eles já tenham deixado no GitHub.
+
+Como o git funciona com branchs, no comando `git pull` tens que dizer qual o branch a ser utilizado. 
+Por omissão estás no branch "master". 
+
 
 ### git branch
-TO DO
+`git branch`
+O comando `git branch` mostra-te todos os branchs do projecto que já tens no teu computador. 
 
-### TO DO
+### git checkout
+`git checkout develop`
+O comando `git checkout` altera-te o branch seleccionado para um outro, por exemplo é normal os projectos terem pelo 
+menos 2 branchs, um é o branch `develop` onde se vão juntando todos os commits da equipa, e só após todo o código ser 
+testado é que esse código é que é enviado para o branch `master`, assim garante-se que o branch master tem sempre 
+versões de código mais "estáveis". 
+
+### git status
+`git status`
+Com o comando `git status` o git mostra-te o estado actual do repositório (que ficheiros novos ainda não foram 
+adicionados, que ficheiros estão alterados emr elação ao ultimo commit, etc.)
