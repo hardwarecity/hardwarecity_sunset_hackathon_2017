@@ -254,3 +254,5 @@ No GitHub, podes fazer um fork clicando directamente no botão `fork`
 ## Outras fontes
 * [http://rogerdudler.github.io/git-guide/index.pt_BR.html](http://rogerdudler.github.io/git-guide/index.pt_BR.html)
 * [https://tableless.com.br/alguns-comandos-git/](https://tableless.com.br/alguns-comandos-git/)
+* [https://ndpsoftware.com/git-cheatsheet.html](https://ndpsoftware.com/git-cheatsheet.html)
+
