@@ -41,7 +41,8 @@ Independentemente do teu sistema operativo, vais precisar de instalar o protocol
 linha de comandos, mas para facilitar a vida, podes instalar um GUI para git, de forma a não teres que memorizar os 
 comandos todos, e usufruires de todas as vantagens de uma interface gráfica. Podes também instalar algum plugin para 
 integrar o git no teu explorador de ficheiros, de forma a conseguires executar algumas ações sem teres que abrir algum 
-programa. Podes instalar estes 3 software independentemente, ou podes instalar logo algum que traga tudo incluido.
+programa (por exemplo: clicar com o boto do lado direito num ficheiro e fazer `git commit`). 
+Podes instalar estes 3 software independentemente, ou podes instalar logo algum que traga tudo incluido.
 
 ## O que é o GitHub?
 O [GitHub](https://github.com/) é um serviço de "alojamento" de repositórios Git. Grandes projectos opensource costumam
