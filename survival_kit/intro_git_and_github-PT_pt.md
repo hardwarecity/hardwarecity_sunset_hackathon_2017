@@ -18,10 +18,10 @@ Podes melhorar este documento, editando-o, só tens que dominar o git :)
 ---
 
 ## O que é o Git?
-O [git](https://git-scm.com/) é um sistema de controlo de versões distribuido, e um sistema de gestão de código-fonte, 
+O [git](https://git-scm.com/) é um sistema de controlo de versões distribuído, e um sistema de gestão de código-fonte, 
 ou seja, quando escreveres código, podes ir assinalando momentos importantes (`commit`), em que é salvo uma cópia do trabalho, 
 podes mais tarde reverter para algum dos pontos anteriores. Também podes sincronizar esse ficheiro com os teus colegas 
-de equipa, em que o git automáticamente compara as diferenças e junta as
+de equipa, em que o git automaticamente compara as diferenças e junta as
 alterações que as pessoas fizeram. Existem outros protocolos semelhantes ao Git, como por exemplo o Subversion, mas o 
 Git é dos mais completos, e dos mais usados.
 
@@ -44,19 +44,20 @@ programa. Podes instalar estes 3 software independentemente, ou podes instalar l
 
 ## O que é o GitHub?
 O [GitHub](https://github.com/) é um serviço de "alojamento" de repositórios Git. Grandes projectos opensource costumam
-ter o código disponivel no GitHub, como por exemplo a [BeeVeryCreative](https://github.com/beeverycreative). 
+ter o código disponível no GitHub, como por exemplo a [BeeVeryCreative](https://github.com/beeverycreative), a [DJI](https://github.com/dji-sdk), a [bitcoin](https://github.com/bitcoin), o [bitalino](https://github.com/BITalinoWorld), etc. 
 Existem outros serviços semelhantes ao GitHub, como por exemplo o [Bitbucket](https://bitbucket.org/), que te permite 
 criar de forma gratuita repositórios privados. Podes também criar o teu próprio servidor de Git, mas visto que estás a 
 ler o manual de introdução ao Git, não me parece que devas partir já por esse caminho. :)
 
 Além de poderes alojar o teu código no GitHub, ele também te oferece algumas funcionalidades interessantes, por exemplo,
-podes fazer uma gestão dos bugs e features a implementar.  
+podes fazer uma gestão dos _bugs_ e _features_ a implementar, podes também editar of ficheiros directamente no browser, 
+etc.  
 
 ## Instalação
 
 ### Windows
 No windows, podes instalar o [Git for Windows (https://git-for-windows.github.io/)](https://git-for-windows.github.io/),
-que instala aumaticamente o protocolo git para executares na linha de comandos, 
+que instala automaticamente o protocolo git para executares na linha de comandos, 
 um GUI para poderes executar os comandos git por uma interface gráfica, e também se integra no explorador do windows, 
 para que possas clicar com o botão do lado direito em cima de documentos do teu repositório e executar comandos.
 
@@ -108,7 +109,7 @@ informações, podes faze-lo executando os seguintes comandos no terminal (dentr
 
 
 ## Criar primeiro repositório no GitHub
-É possivel começares por criar um repositorio no teu computador, e depois fazeres um clone desse repositório para o 
+É possível começares por criar um repositório no teu computador, e depois fazeres um clone desse repositório para o 
 GitHub, no entanto, para simplificar, vamos criar o repositório directamente no GitHub, e depois fazer o clone para o 
 teu computador e dos teus colegas de equipa.
 
@@ -170,8 +171,8 @@ Utilizas o git clone quando queres copiar um repositório que está no GitHub pa
 `git add -A`
 
 Utilizas o git add quando pretende que um determinado ficheiro novo passe a ser controlado pelo git, ou seja, sempre que
-criares um ficheiro novo no teu projecto, ele não ficará automáticamente sob o efeito do controlo de versões do git, 
-terás que fazer um git add do ficheiro, ou um `git add -A` para que sejam adicionaados todos os ficheiros dentro dessa 
+criares um ficheiro novo no teu projecto, ele não ficará automaticamente sob o efeito do controlo de versões do git, 
+terás que fazer um git add do ficheiro, ou um `git add -A` para que sejam adicionados todos os ficheiros dentro dessa 
 pasta e subpastas. 
 
 ### git commit
@@ -234,4 +235,4 @@ versões de código mais "estáveis".
 ### git status
 `git status`
 Com o comando `git status` o git mostra-te o estado actual do repositório (que ficheiros novos ainda não foram 
-adicionados, que ficheiros estão alterados emr elação ao ultimo commit, etc.)
+adicionados, que ficheiros estão alterados em relação ao ultimo commit, etc.)
