@@ -86,6 +86,8 @@ Executa o comando correspondente ao teu sistema operativo:
 * Sistemas baseados em Red Hat, como CentOS, etc.
 * * `sudo yum install git`
 
+Podes ver uma lista mais completa neste link: [https://git-scm.com/download/linux](https://git-scm.com/download/linux)
+
 ### Mac OSx
 
 Antes de instalares o git, confirma se já o tens instalado, abre o terminal e executa 
@@ -94,7 +96,7 @@ Antes de instalares o git, confirma se já o tens instalado, abre o terminal e e
 > git version 2.13.0
 
 Caso ainda não tenhas o git instalado, podes instalar o git por exemplo pelo site do git 
-[https://git-scm.com/downloads](https://git-scm.com/downloads)
+[https://git-scm.com/download/mac](https://git-scm.com/download/mac)
 
 Para facilitar a utilização do git, podes utilizar o GUI do GitHub [https://desktop.github.com/](https://desktop.github.com/)
 ![img](https://raw.githubusercontent.com/HardwareCity/hardwarecity_sunset_hackathon_2017/master/10_survival_kit/20_tutorials/img/GitHub-Desktop.png)
@@ -248,3 +250,7 @@ submeter um pedido para que os autores do projecto inicial incluam as tuas alter
 No GitHub, podes fazer um fork clicando directamente no botão `fork`
 
 ![img](https://raw.githubusercontent.com/HardwareCity/hardwarecity_sunset_hackathon_2017/master/10_survival_kit/20_tutorials/img/GitHub-fork.png)
+
+## Outras fontes
+* [http://rogerdudler.github.io/git-guide/index.pt_BR.html](http://rogerdudler.github.io/git-guide/index.pt_BR.html)
+* [https://tableless.com.br/alguns-comandos-git/](https://tableless.com.br/alguns-comandos-git/)
