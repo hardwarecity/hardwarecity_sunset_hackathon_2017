@@ -1,5 +1,5 @@
 
-![img](https://raw.githubusercontent.com/HardwareCity/hardwarecity_sunset_hackathon_2017/master/survival_kit/img/hc_sh_fb_banner.jpg)
+![img](https://raw.githubusercontent.com/HardwareCity/hardwarecity_sunset_hackathon_2017/master/10_survival_kit/20_tutorials/img/hc_sh_fb_banner.jpg)
 
 # Introdução ao Git e GitHub
 
@@ -29,11 +29,11 @@ Git é dos mais completos, e dos mais usados.
 >
 > Podes reverter o código para qualquer um dos commits anteriormente assinalados  
 >
-> ![img](https://raw.githubusercontent.com/HardwareCity/hardwarecity_sunset_hackathon_2017/master/survival_kit/img/git_commits.png)
+> ![img](https://raw.githubusercontent.com/HardwareCity/hardwarecity_sunset_hackathon_2017/master/10_survival_kit/20_tutorials/img/git_commits.png)
 >
 > **Exemplo de alterações feitas num ficheiro entre dois commits**
 >
-> ![img](https://raw.githubusercontent.com/HardwareCity/hardwarecity_sunset_hackathon_2017/master/survival_kit/img/git_diff.png)
+> ![img](https://raw.githubusercontent.com/HardwareCity/hardwarecity_sunset_hackathon_2017/master/10_survival_kit/20_tutorials/img/git_diff.png)
 
 
 Independentemente do teu sistema operativo, vais precisar de instalar o protocolo git, que normalmente é executado na 
