@@ -12,8 +12,9 @@ Podes melhorar este documento, editando-o, só tens que dominar o git :)
 - O que é o Git?
 - O que é o GitHub?
 - Instalar Git no teu computador
-- Criar novo repositório no GitHub
-- Copiar um repositório do GitHub para o nosso computador
+- Criar primeiro repositório no GitHub
+- Copiar um repositório do GitHub para o teu computador
+- Comandos git mais usados
 
 ---
 
@@ -53,7 +54,7 @@ Além de poderes alojar o teu código no GitHub, ele também te oferece algumas 
 podes fazer uma gestão dos _issues_ e _features_ a implementar, podes também editar of ficheiros directamente no browser, 
 etc.  
 
-## Instalação
+## Instalar Git no teu computador
 
 ### Windows
 No windows, podes instalar o [Git for Windows (https://git-for-windows.github.io/)](https://git-for-windows.github.io/),
@@ -132,7 +133,7 @@ um clone do repositório, pois o URL do repositório será diferente.
 ![img](https://raw.githubusercontent.com/HardwareCity/hardwarecity_sunset_hackathon_2017/master/10_survival_kit/20_tutorials/img/GitHub-Repository-Add_Collaborator.png)
  
 
-## Baixar um repositório já existente no GitHub
+## Copiar um repositório do GitHub para o teu computador
 
 Sempre que pretenderes clonar para o teu computador um repositório do GitHub, deves abrir esse mesmo repositório, e 
 clicar no botão `Clone or download`, de seguida deves copiar o URL `https://github...` 
@@ -158,7 +159,7 @@ Agora que copiaste o URL do projecto, vais fazer um `git clone`, para isso tens 
 
 Agora que já tens o repositório no teu computador, podes executar todos os comandos git que vamos descrever de seguida.
 
-## Comandos mais usados
+## Comandos git mais usados
 
 ### git clone
 `git clone https://github.com/HardwareCity/hardwarecity_sunset_hackathon_2017.git`
