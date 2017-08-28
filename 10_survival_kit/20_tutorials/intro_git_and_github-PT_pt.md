@@ -236,6 +236,8 @@ menos 2 branchs, um é o branch `develop` onde se vão juntando todos os commits
 testado é que esse código é que é enviado para o branch `master`, assim garante-se que o branch master tem sempre 
 versões de código mais "estáveis". 
 
+![img](https://raw.githubusercontent.com/HardwareCity/hardwarecity_sunset_hackathon_2017/master/10_survival_kit/20_tutorials/img/main-branches@2x.png)
+
 ### git status
 `git status`
 Com o comando `git status` o git mostra-te o estado actual do repositório (que ficheiros novos ainda não foram 
