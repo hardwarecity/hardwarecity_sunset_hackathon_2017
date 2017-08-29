@@ -14,8 +14,6 @@ Workshop #1 - Utilização de impressão 3D e resinas poliuretanas para iteraç�
 
     Duração: 1h
 
-    Requisitos da sala (projector, folhas, …): Mesas protegidas com jornais e projetor.
-    
     Informação sobre os formadores:
         Ricardo Pereira 
         https://www.linkedin.com/in/ricardopereiradesigner/
@@ -36,9 +34,9 @@ Workshop #2 - Desenvolvimento de sistema áudio
 
     Material fornecido aos participantes: Nada
 
-    Material pessoal (laptop; ...): Nada
+    Material pessoal: Nada
 
-    Preparação prévia (Ler; Instalar; ...): Nada
+    Preparação prévia: Nada
 
     Duração: 30 min
 
@@ -95,7 +93,40 @@ https://pt.linkedin.com/in/ruidamendes
 https://www.meetup.com/datascienceportugal/
 http://www.gowi-fi.pt/ (edited)
 
-Workshop #4
-    info
+
+
+Workshop #4 - Como projetar uma Tag para animais marinhos
+
+Descrição: 
+Com o aumento das atividades humanas sobre os habitats marinhos, torna-se cada vez mais importante aprofundar o conhecimento sobre os oceanos e quantificar os impactos da presença antropogénica nos mesmos. A monitorização de animais marinhos representa uma solução para este problema, muito embora de resolução complexa, quer seja pela grande mobilidade destes animais, pela inacessibilidade dos habitats marinhos, ou pelo impacto da presença humana que certos métodos de monitorização implicam. A monitorização in-situ com recurso a marcas instrumentadas colocadas nos animais, capazes de registar informações relativas à atividade do animal, ao seu habitat ou mesmo transmitir em tempo real a sua localização, surge como uma solução para a obtenção de dados com grande precisão, com o mínimo impacto para o animal. Assim, neste workshop serão apresentadas as principais problemáticas envolvidas no desenvolvimento deste tipo de dispositivos, sendo de seguida proposto às equipas o desafio de desenvolver uma configuração inovadora e mock-up da mesma.
+
+Atividade Hands on:
+As equipas (5 equipas de 3 elementos cada) serão desafiadas a fazer um mock-up de uma marca instrumentada para animais marinhos. Serão introduzidos os conceitos essenciais relacionados com desenvolvimento de um produto deste género (flutuabilidade, estabilidade, hidrodinâmica), assim como os materiais necessários para a prototipagem de conceitos simples. No fim do workshop, as configurações e designs de cada equipa serão avaliados de acordo com os parâmetros estabelecidos, assim como em testes de estabilidade e flutuabilidade em água. 
+
+Requisitos: Não é necessária formação ou conhecimentos específicos para participar no workshop.
+
+Material fornecido aos participantes:
+-Esferovite;
+-Chumbo pesca (para simular instrumentação e lastro);
+-Abraçadeiras plásticas reutilizáveis;
+-Fio de pesca;
+-X-acto e/ou outras ferramentas;
+-Argolas de porta-chaves;
+-Arame
+
+Material pessoal: É aconselhado que cada equipa tenha ao seu dispor um portátil com MS Excel e acesso à internet.
+
+Preparação prévia: Não é necessária qualquer preparação prévia para participar no workshop.
+
+Duração: 2 horas
+
+Informação sobre o formador:
+    Nome: David Brandão
+    Empresa: CEIIA
+    Linked-in: https://www.linkedin.com/in/davidpinabrandao/ 
+
+
+
+
 Workshop #5
     info
