@@ -12,11 +12,6 @@ Que a tua equipa está organizada e as linhas de trabalho estão definidas
 Que os teus pais, cônjuges ou pares têm conhecimento de onde vais estar 
 Que tens tudo o que necessitas para sobreviver três num ambiente fora da tua zona de conforto. Lembra-te que a organização providencia os recursos essenciais ao teu bem-estar mas não se responsabiliza por ti nem tem conhecimento de eventuais necessidades especiais da tua parte
 
-O que é mesmo obrigatório?
-
-Trazeres boa disposição, vontade de aprender, desenvolver e conviver
-Lembra-te que este é um evento comunitário, onde muitas pessoas vão passar muitas horas seguidas num pequeno espaço. As regras de convivência e bom-senso são obrigatórias. ;)
-
 Onde poderás descansar?
 
 O local de descanso estará identificado no edifício e não terás qualquer dificuldade em localizar. Deverás ter contigo o teu equipamento de conforto (saco de cama, almofada,...).
@@ -32,3 +27,10 @@ Podes contactar qualquer elemento que esteja identificado como "Organização".
 Podes ligar diretamente ao responsável pela gestão de comunidade:
   - Joel Oliveira - 932833643
 
+O que é mesmo obrigatório?
+
+Trazeres boa disposição, vontade de aprender, desenvolver e conviver.
+
+Lembra-te que este é um evento comunitário, onde muitas pessoas vão passar dezenas de horas seguidas num espaço exíguo. As regras de convivência, respeito e bom-senso são obrigatórias. 
+
+Não será tolerada por parte da organização qualquer violação de qualquer uma das normas acima implícitas, reservando-se a organização ao direito de afastar do evento qualquer participante infrator.
