@@ -14,24 +14,24 @@
 
 # Onde poderás descansar?
 
-*O local de descanso estará identificado no edifício e não terás qualquer dificuldade em localizar. Deverás ter contigo o teu equipamento de conforto (saco de cama, almofada,...).
-*É muito importante que respeites quem se encontra a descansar, mantendo o silêncio e fazendo o mínimo barulho possível.
+* O local de descanso estará identificado no edifício e não terás qualquer dificuldade em localizar. Deverás ter contigo o teu equipamento de conforto (saco de cama, almofada,...).
+* É muito importante que respeites quem se encontra a descansar, mantendo o silêncio e fazendo o mínimo barulho possível.
 
 # Onde poderás tomar banho?
 
-O edifício para os chuveiros é imediatamente ao lado do edifício do evento, sendo que se tiveres dúvidas deverás perguntar ao staff.
+* O edifício para os chuveiros é imediatamente ao lado do edifício do evento, sendo que se tiveres dúvidas deverás perguntar ao staff.
 
 # Quem podes contactar durante o evento?
 
-Podes contactar qualquer elemento que esteja identificado como "Organização". 
+* Podes contactar qualquer elemento que esteja identificado como "Organização". 
 
-Podes ligar diretamente ao responsável pela gestão de comunidade:
+* Podes ligar diretamente ao responsável pela gestão de comunidade:
   - Joel Oliveira - 932833643
 
 # O que é mesmo obrigatório?
 
-Trazeres boa disposição, vontade de aprender, desenvolver e conviver.
+* Trazeres boa disposição, vontade de aprender, desenvolver e conviver.
 
-Lembra-te que este é um evento comunitário, onde muitas pessoas vão passar dezenas de horas seguidas num espaço exíguo. As regras de convivência, respeito e bom-senso são obrigatórias. 
+* Lembra-te que este é um evento comunitário, onde muitas pessoas vão passar dezenas de horas seguidas num espaço exíguo. As regras de convivência, respeito e bom-senso são obrigatórias. 
 
-Não será tolerada por parte da organização qualquer violação de qualquer uma das normas acima implícitas, reservando-se a organização ao direito de afastar do evento qualquer participante infrator.
+* Não será tolerada por parte da organização qualquer violação de qualquer uma das normas acima implícitas, reservando-se a organização ao direito de afastar do evento qualquer participante infrator.
