@@ -230,19 +230,50 @@ Por omissão estás no branch "master".
 O comando `git branch` mostra-te todos os branchs do projecto que já tens no teu computador. 
 
 ### git checkout
+
 `git checkout develop`
-O comando `git checkout` altera-te o branch seleccionado para um outro, por exemplo é normal os projectos terem pelo 
+O comando `git checkout` altera-te o branch seleccionado para um outro (ou cria um branch novo, com base no actual), por exemplo é normal os projectos terem pelo 
 menos 2 branchs, um é o branch `develop` onde se vão juntando todos os commits da equipa, e só após todo o código ser 
 testado é que esse código é que é enviado para o branch `master`, assim garante-se que o branch master tem sempre 
 versões de código mais "estáveis". 
 
+`git checkout -b develop master`
+Neste caso, criamos um branch chamado `develop` com base no branch `master`
+
 ![img](https://raw.githubusercontent.com/HardwareCity/hardwarecity_sunset_hackathon_2017/master/10_survival_kit/20_tutorials/img/main-branches@2x.png)
+
+Projectos mais complexos costumam ter vários branchs, como por exemplo:
+
+![img](https://raw.githubusercontent.com/HardwareCity/hardwarecity_sunset_hackathon_2017/master/10_survival_kit/20_tutorials/img/git-feetit.png)
+
+### git merge
+`git merge --no-ff develop`
+O comando git merge serve para juntar as alterações de um branch noutro.
+
+Por exemplo, se tiveres um branch `master`, onde tens o teu código estável, e depois com o comando `git checkout -b develop master` criares um segundo branch chamado `develop` onde vais fazer todos os commits, mesmo que alguns no estejam devidamente testados, quando tiveres o `develop` estável, e quiseres juntar com o `master`, vais para o branch `master` pelo comando `git checkout master` e lá, puxas as alteraçes realizadas no `develop` para o `master` com o comando `git merge --no-ff develop`
 
 ### git status
 `git status`
 Com o comando `git status` o git mostra-te o estado actual do repositório (que ficheiros novos ainda não foram 
 adicionados, que ficheiros estão alterados em relação ao ultimo commit, etc.)
 
+### git reset
+
+Podemos reverter commits que tenhamos realizado anteriormente.
+
+Ex:
+
+`git reset HEAD~1` -> recuar 1 commit
+
+`git reset HEAD~2` -> recuar 2 commits
+
+`git reset HEAD~1 --soft` -> TO DO
+
+`git reset HEAD~1 --hard` -> TO DO
+
+### git branch -d [eliminar um branch]
+`git branch -d develop`
+Exemplo de como eliminar o branch `develop`
 
 ### git fork
 Podes criar um novo repositório baseado num repositório já existente, a isto chama-se um fork.
