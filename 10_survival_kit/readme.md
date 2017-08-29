@@ -1,4 +1,4 @@
-# O que é necessitas de trazer?
+# O que necessitas de trazer?
 
 Trazer Portátil
 Trazer o material necessário para o desenvolvimento do teu projeto
