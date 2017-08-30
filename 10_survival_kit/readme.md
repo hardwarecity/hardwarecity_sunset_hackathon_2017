@@ -19,7 +19,7 @@
 
 # Onde poderás tomar banho?
 
-* O edifício para os chuveiros é imediatamente ao lado do edifício do evento, sendo que se tiveres dúvidas deverás perguntar ao staff.
+* O edifício para os chuveiros é imediatamente ao lado do edifício do evento, mas se tiveres dúvidas deverás perguntar ao staff.
 
 # Quem podes contactar durante o evento?
 
