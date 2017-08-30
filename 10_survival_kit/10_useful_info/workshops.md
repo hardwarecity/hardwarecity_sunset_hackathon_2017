@@ -1,30 +1,5 @@
-Workshop #1 - Utilização de impressão 3D e resinas poliuretanas para iteração rápida de protótipos funcionais
-
-    Descrição: Os participantes vão aprender a tirar partido de duas técnicas de fabricação (uma digital, outra mais tradicional) de modo a fabricar protótipos funcionais a baixo custo com características que não seria facilmente alcançável de outra forma. Ao contrário do que acontece com a fabricação de um molde (mesmo de baixo custo), existe aqui a possibilidade de modificar o desenho da peça entre cada iteração.
-
-    Actividade Hands on: Sim
-
-    Requisitos: conhecimentos mínimos de programação, electrónica, etc / noções básicas de impressão 3D 
-
-    Material fornecido aos participantes: Modelo impresso em 3D e resinas poliuretana.
-
-    Material necessário: nenhum
-
-    Preparação prévia (Ler; Instalar; ...): Não necessário
-
-    Duração: 1h
-
-    Informação sobre os formadores:
-        Ricardo Pereira 
-        https://www.linkedin.com/in/ricardopereiradesigner/
-        
-        
-        Michaël Memeteau
-        https://www.linkedin.com/in/mmemetea/ 
-
-
     
-Workshop #2 - Desenvolvimento de sistema áudio
+Workshop #1 - Desenvolvimento de sistema áudio
 
     Descrição: Desenvolvimento de uma plataforma de processamento de sinal em tempo real para sistema ativo de cancelamento de ruido em automóveis.
 
@@ -48,10 +23,47 @@ Workshop #2 - Desenvolvimento de sistema áudio
         Linked-in:
 
 
+Workshop #2 - Bitalino
+
+
+
+
+
+
+Workshop #3 - Como projetar uma Tag para animais marinhos - CEiiA
+
+Descrição: 
+Com o aumento das atividades humanas sobre os habitats marinhos, torna-se cada vez mais importante aprofundar o conhecimento sobre os oceanos e quantificar os impactos da presença antropogénica nos mesmos. A monitorização de animais marinhos representa uma solução para este problema, muito embora de resolução complexa, quer seja pela grande mobilidade destes animais, pela inacessibilidade dos habitats marinhos, ou pelo impacto da presença humana que certos métodos de monitorização implicam. A monitorização in-situ com recurso a marcas instrumentadas colocadas nos animais, capazes de registar informações relativas à atividade do animal, ao seu habitat ou mesmo transmitir em tempo real a sua localização, surge como uma solução para a obtenção de dados com grande precisão, com o mínimo impacto para o animal. Assim, neste workshop serão apresentadas as principais problemáticas envolvidas no desenvolvimento deste tipo de dispositivos, sendo de seguida proposto às equipas o desafio de desenvolver uma configuração inovadora e mock-up da mesma.
+
+Atividade Hands on:
+As equipas (5 equipas de 3 elementos cada) serão desafiadas a fazer um mock-up de uma marca instrumentada para animais marinhos. Serão introduzidos os conceitos essenciais relacionados com desenvolvimento de um produto deste género (flutuabilidade, estabilidade, hidrodinâmica), assim como os materiais necessários para a prototipagem de conceitos simples. No fim do workshop, as configurações e designs de cada equipa serão avaliados de acordo com os parâmetros estabelecidos, assim como em testes de estabilidade e flutuabilidade em água. 
+
+Requisitos: Não é necessária formação ou conhecimentos específicos para participar no workshop.
+
+Material fornecido aos participantes:
+-Esferovite;
+-Chumbo pesca (para simular instrumentação e lastro);
+-Abraçadeiras plásticas reutilizáveis;
+-Fio de pesca;
+-X-acto e/ou outras ferramentas;
+-Argolas de porta-chaves;
+-Arame
+
+Material pessoal: É aconselhado que cada equipa tenha ao seu dispor um portátil com MS Excel e acesso à internet.
+
+Preparação prévia: Não é necessária qualquer preparação prévia para participar no workshop.
+
+Duração: 2 horas
+
+Informação sobre o formador:
+    Nome: David Brandão
+    Empresa: CEIIA
+    Linked-in: https://www.linkedin.com/in/davidpinabrandao/ 
+
 
 
  
-Workshop #3 - 101 - Manipulação e Exploração de dados em Python
+Workshop #4 - 101 - Manipulação e Exploração de dados em Python -
 
     Objetivos gerais:
 ● Configurar e utilizar um ambiente para, de forma autónoma, conseguir carregar,
@@ -95,38 +107,33 @@ http://www.gowi-fi.pt/ (edited)
 
 
 
-Workshop #4 - Como projetar uma Tag para animais marinhos
-
-Descrição: 
-Com o aumento das atividades humanas sobre os habitats marinhos, torna-se cada vez mais importante aprofundar o conhecimento sobre os oceanos e quantificar os impactos da presença antropogénica nos mesmos. A monitorização de animais marinhos representa uma solução para este problema, muito embora de resolução complexa, quer seja pela grande mobilidade destes animais, pela inacessibilidade dos habitats marinhos, ou pelo impacto da presença humana que certos métodos de monitorização implicam. A monitorização in-situ com recurso a marcas instrumentadas colocadas nos animais, capazes de registar informações relativas à atividade do animal, ao seu habitat ou mesmo transmitir em tempo real a sua localização, surge como uma solução para a obtenção de dados com grande precisão, com o mínimo impacto para o animal. Assim, neste workshop serão apresentadas as principais problemáticas envolvidas no desenvolvimento deste tipo de dispositivos, sendo de seguida proposto às equipas o desafio de desenvolver uma configuração inovadora e mock-up da mesma.
-
-Atividade Hands on:
-As equipas (5 equipas de 3 elementos cada) serão desafiadas a fazer um mock-up de uma marca instrumentada para animais marinhos. Serão introduzidos os conceitos essenciais relacionados com desenvolvimento de um produto deste género (flutuabilidade, estabilidade, hidrodinâmica), assim como os materiais necessários para a prototipagem de conceitos simples. No fim do workshop, as configurações e designs de cada equipa serão avaliados de acordo com os parâmetros estabelecidos, assim como em testes de estabilidade e flutuabilidade em água. 
-
-Requisitos: Não é necessária formação ou conhecimentos específicos para participar no workshop.
-
-Material fornecido aos participantes:
--Esferovite;
--Chumbo pesca (para simular instrumentação e lastro);
--Abraçadeiras plásticas reutilizáveis;
--Fio de pesca;
--X-acto e/ou outras ferramentas;
--Argolas de porta-chaves;
--Arame
-
-Material pessoal: É aconselhado que cada equipa tenha ao seu dispor um portátil com MS Excel e acesso à internet.
-
-Preparação prévia: Não é necessária qualquer preparação prévia para participar no workshop.
-
-Duração: 2 horas
-
-Informação sobre o formador:
-    Nome: David Brandão
-    Empresa: CEIIA
-    Linked-in: https://www.linkedin.com/in/davidpinabrandao/ 
-
-
-
 
 Workshop #5
     info
+    
+    
+ 
+Workshop #6 - Utilização de impressão 3D e resinas poliuretanas para iteração rápida de protótipos funcionais
+
+    Descrição: Os participantes vão aprender a tirar partido de duas técnicas de fabricação (uma digital, outra mais tradicional) de modo a fabricar protótipos funcionais a baixo custo com características que não seria facilmente alcançável de outra forma. Ao contrário do que acontece com a fabricação de um molde (mesmo de baixo custo), existe aqui a possibilidade de modificar o desenho da peça entre cada iteração.
+
+    Actividade Hands on: Sim
+
+    Requisitos: conhecimentos mínimos de programação, electrónica, etc / noções básicas de impressão 3D 
+
+    Material fornecido aos participantes: Modelo impresso em 3D e resinas poliuretana.
+
+    Material necessário: nenhum
+
+    Preparação prévia (Ler; Instalar; ...): Não necessário
+
+    Duração: 1h
+
+    Informação sobre os formadores:
+        Ricardo Pereira 
+        https://www.linkedin.com/in/ricardopereiradesigner/
+        
+        
+        Michaël Memeteau
+        https://www.linkedin.com/in/mmemetea/ 
+
