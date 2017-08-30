@@ -1,27 +1,25 @@
     
-# Workshop #1 - Desenvolvimento de sistema áudio
+# Workshop #1 - Desenvolvimento de sistema áudio - BOSCH
 
 ## Descrição 
 Desenvolvimento de uma plataforma de processamento de sinal em tempo real para sistema ativo de cancelamento de ruido em automóveis.
 
-Actividade Hands on: Não
+**Actividade Hands on:** Não
 
-Requisitos (conhecimentos mínimos em: programação, electrónica, etc): Conhecimentos básicos em processamento de sinal digital
+**Requisitos:** Conhecimentos básicos em processamento de sinal digital
 
-Material fornecido aos participantes: Nada
+**Material fornecido aos participantes:** N/A
 
-Material pessoal: Nada
+**Material pessoal necessário:** N/A
 
-Preparação prévia: Nada
+**Preparação prévia:** N/A
 
-Duração: 30 min
+**Duração:** 30 min
 
-Requisitos da sala (projector, folhas, …): Projetor, mesa de suporte
-
-Informação sobre o formador:
-Nome: Não definido
-Foto:
-Linked-in:
+## Informação sobre o formador
+**Nome:** TBA
+**Foto** TBA 
+**Linked-in**
 
 
 
@@ -30,38 +28,39 @@ Linked-in:
 
 
 
-
-
 # Workshop #3 - Como projetar uma Tag para animais marinhos - CEiiA
 
-## Descrição
+## Descrição 
+Conceitos fundamentais para a configuração de um dispositivo para monitorização in-situ com recurso a marcas instrumentadas colocadas nos animais, capazes de registar informações relativas à atividade do animal, ao seu habitat ou mesmo transmitir em tempo real a sua localização.
+
+## Enquadramento
 Com o aumento das atividades humanas sobre os habitats marinhos, torna-se cada vez mais importante aprofundar o conhecimento sobre os oceanos e quantificar os impactos da presença antropogénica nos mesmos. A monitorização de animais marinhos representa uma solução para este problema, muito embora de resolução complexa, quer seja pela grande mobilidade destes animais, pela inacessibilidade dos habitats marinhos, ou pelo impacto da presença humana que certos métodos de monitorização implicam. A monitorização in-situ com recurso a marcas instrumentadas colocadas nos animais, capazes de registar informações relativas à atividade do animal, ao seu habitat ou mesmo transmitir em tempo real a sua localização, surge como uma solução para a obtenção de dados com grande precisão, com o mínimo impacto para o animal. Assim, neste workshop serão apresentadas as principais problemáticas envolvidas no desenvolvimento deste tipo de dispositivos, sendo de seguida proposto às equipas o desafio de desenvolver uma configuração inovadora e mock-up da mesma.
 
-Atividade Hands on:
+## Objetivos
 As equipas (5 equipas de 3 elementos cada) serão desafiadas a fazer um mock-up de uma marca instrumentada para animais marinhos. Serão introduzidos os conceitos essenciais relacionados com desenvolvimento de um produto deste género (flutuabilidade, estabilidade, hidrodinâmica), assim como os materiais necessários para a prototipagem de conceitos simples. No fim do workshop, as configurações e designs de cada equipa serão avaliados de acordo com os parâmetros estabelecidos, assim como em testes de estabilidade e flutuabilidade em água. 
 
-Requisitos: Não é necessária formação ou conhecimentos específicos para participar no workshop.
+**Atividade Hands on** Sim
 
-Material fornecido aos participantes:
--Esferovite;
--Chumbo pesca (para simular instrumentação e lastro);
--Abraçadeiras plásticas reutilizáveis;
--Fio de pesca;
--X-acto e/ou outras ferramentas;
--Argolas de porta-chaves;
--Arame
+**Requisitos:** N/A
 
-Material pessoal: É aconselhado que cada equipa tenha ao seu dispor um portátil com MS Excel e acesso à internet.
+**Material fornecido aos participantes:**
+* Esferovite;
+* Chumbo pesca (para simular instrumentação e lastro);
+* Abraçadeiras plásticas reutilizáveis;
+* Fio de pesca;
+* X-acto e/ou outras ferramentas;
+* Argolas de porta-chaves;
+* Arame
 
-Preparação prévia: Não é necessária qualquer preparação prévia para participar no workshop.
+**Material pessoal necessário:** Cada equipa deverá ter um portátil com MS Excel e acesso à internet
 
-Duração: 2 horas
+**Preparação prévia:** Não é necessária qualquer preparação prévia para participar no workshop.
 
-Informação sobre o formador:
-Nome: David Brandão
-Empresa: CEIIA
-Linked-in: https://www.linkedin.com/in/davidpinabrandao/ 
+**Duração:** 2 horas
 
+## Informação sobre o formador
+**Nome:** David Brandão [Linked-in](https://www.linkedin.com/in/davidpinabrandao/)
+**Empresa:** CEIIA
 
  
 # Workshop #4 - 101 - Manipulação e Exploração de dados em Python -
