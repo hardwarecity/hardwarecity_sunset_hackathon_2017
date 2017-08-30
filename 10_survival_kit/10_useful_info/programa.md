@@ -3,11 +3,11 @@ O programa é apresentado no seguinte esquema:
 
 *1/9 - Sexta-feira*
 
-| Hora          | Atividade 1        | Local 1 | Evento 2 | Local 2 | 
+| Hora          | Atividade 1        | Local 1 | Atividade 2 | Local 2 | 
 | --------------- |:---------------------:|:------------:|:----------:|:----------:|
-| 10h00      | Recepção de participantes | N/D | | |
-| 11h00     | Ice Break      | N/D | | |
-| 12h00 - 13h00 | Almoço      | XXXX | | | 
+| 10h00      | Recepção de participantes | | | |
+| 11h00     | Ice Break      |  | | |
+| 12h00 - 13h00 | Almoço      | | | | 
 | 13h30 - 14h00 | Welcoming      | Sala 1 |||
 | 15h00 | Workshop 1 - Bosch      | Sala 1 | Workshop 2 - Bitalino | Sala 2 |
 | 15h30 | Workshop 3 - CEiiA      | Sala 1 | Workshop 2 - Bitalino | Sala 2 |
