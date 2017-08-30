@@ -21,12 +21,13 @@ Desenvolvimento de uma plataforma de processamento de sinal em tempo real para s
 
 **Foto** TBA 
 
-
+**Empresa:** Bosch
 
 
 # Workshop #2 - Bitalino
 
 
+info
 
 
 # Workshop #3 - Como projetar uma Tag para animais marinhos - CEiiA
@@ -109,7 +110,7 @@ DSPT is a community of data science enthusiasts with the purpose of allowing the
 [Meetup datascience](https://www.meetup.com/datascienceportugal/) /
 [Daylight job](http://www.gowi-fi.pt/)
 
-
+**Instituição:** Data Science Portugal
 
 
 # Workshop #5
