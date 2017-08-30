@@ -42,3 +42,5 @@
 * Lembra-te que este é um evento comunitário, onde muitas pessoas vão passar dezenas de horas seguidas num espaço exíguo. As regras de convivência, respeito e bom-senso são obrigatórias. 
 
 * Não será tolerada por parte da organização qualquer violação de qualquer uma das normas acima implícitas, reservando-se a organização ao direito de afastar do evento qualquer participante infrator.
+
+* Tirares dezenas de fotos e vídeos e partilhares com os teus amigos nas redes sociais da moda com a hashtag #sunsethackathon
