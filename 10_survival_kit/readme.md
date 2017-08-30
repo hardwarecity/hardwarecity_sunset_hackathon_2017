@@ -21,6 +21,13 @@
 
 * O edifício para os chuveiros é imediatamente ao lado do edifício do evento, mas se tiveres dúvidas deverás perguntar ao staff.
 
+# O que poderás comer?
+
+* A organização irá providenciar refeições para todos os participantes.
+* O momento das refeições está identificado no programa.
+* Existirá café, água e fruta à disposição dos participantes durante todo o evento.
+* Caso necessites de um reforço alimentar extra poderás recorrer a um dos muitos estabelecimentos comerciais na periferia do edifício. Recomendamos uma boa mariscada.
+
 # Quem podes contactar durante o evento?
 
 * Podes contactar qualquer elemento que esteja identificado como "Organização". 
