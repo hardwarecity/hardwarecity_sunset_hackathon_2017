@@ -65,7 +65,7 @@ As equipas (5 equipas de 3 elementos cada) serão desafiadas a fazer um mock-up 
 **Empresa:** CEIIA
 
  
-# Workshop #4 - 101 - Manipulação e Exploração de dados em Python -
+# Workshop #4 - 101 - Manipulação e Exploração de dados em Python - Data Science
 
 ## Objetivos gerais
 * Configurar e utilizar um ambiente para, de forma autónoma, conseguir carregar,
@@ -105,8 +105,8 @@ I'm also one of the organizers of Meetup Data Science Portugal (DSPT).
 
 DSPT is a community of data science enthusiasts with the purpose of allowing the members to share their knowledge and experience in this field, in a informal environment. We came up with the idea to create the Data Science Portugal (DSTP) community to build sinergies among everyone that is passionate about data (link below).Feel free to contact me... :smile:
 
-[Linkedin](https://pt.linkedin.com/in/ruidamendes)
-[Meetup datascience](https://www.meetup.com/datascienceportugal/)
+[Linkedin](https://pt.linkedin.com/in/ruidamendes) /
+[Meetup datascience](https://www.meetup.com/datascienceportugal/) /
 [Daylight job](http://www.gowi-fi.pt/)
 
 
@@ -117,24 +117,24 @@ DSPT is a community of data science enthusiasts with the purpose of allowing the
     
     
  
-# Workshop #6 - Utilização de impressão 3D e resinas poliuretanas para iteração rápida de protótipos funcionais
+# Workshop #6 - Utilização de impressão 3D e resinas poliuretanas para iteração rápida de protótipos funcionais 
 
 ## Descrição 
 Os participantes vão aprender a tirar partido de duas técnicas de fabricação (uma digital, outra mais tradicional) de modo a fabricar protótipos funcionais a baixo custo com características que não seria facilmente alcançável de outra forma. Ao contrário do que acontece com a fabricação de um molde (mesmo de baixo custo), existe aqui a possibilidade de modificar o desenho da peça entre cada iteração.
 
-Actividade Hands on: Sim
+**Actividade Hands on:** Sim
 
-Requisitos: conhecimentos mínimos de programação, electrónica, etc / noções básicas de impressão 3D 
+**Requisitos:** noções básicas de impressão 3D 
 
-Material fornecido aos participantes: Modelo impresso em 3D e resinas poliuretana.
+**Material fornecido aos participantes:** Modelo impresso em 3D e resinas poliuretana.
 
-Material necessário: nenhum
+**Material necessário:** N/A
 
-Preparação prévia (Ler; Instalar; ...): Não necessário
+**Preparação prévia:** N/A
 
-Duração: 1h
+**Duração:** 1h
 
-Informação sobre os formadores:
+## Informação sobre os formadores
 Ricardo Pereira [linkedin](https://www.linkedin.com/in/ricardopereiradesigner/)
 Michaël Memeteau [linkedin](https://www.linkedin.com/in/mmemetea/)
 
