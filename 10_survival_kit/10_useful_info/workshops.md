@@ -1,38 +1,40 @@
     
-Workshop #1 - Desenvolvimento de sistema áudio
+# Workshop #1 - Desenvolvimento de sistema áudio
 
-    Descrição: Desenvolvimento de uma plataforma de processamento de sinal em tempo real para sistema ativo de cancelamento de ruido em automóveis.
+## Descrição 
+Desenvolvimento de uma plataforma de processamento de sinal em tempo real para sistema ativo de cancelamento de ruido em automóveis.
 
-    Actividade Hands on: Não
+Actividade Hands on: Não
 
-    Requisitos (conhecimentos mínimos em: programação, electrónica, etc): Conhecimentos básicos em processamento de sinal digital
+Requisitos (conhecimentos mínimos em: programação, electrónica, etc): Conhecimentos básicos em processamento de sinal digital
 
-    Material fornecido aos participantes: Nada
+Material fornecido aos participantes: Nada
 
-    Material pessoal: Nada
+Material pessoal: Nada
 
-    Preparação prévia: Nada
+Preparação prévia: Nada
 
-    Duração: 30 min
+Duração: 30 min
 
-    Requisitos da sala (projector, folhas, …): Projetor, mesa de suporte
+Requisitos da sala (projector, folhas, …): Projetor, mesa de suporte
 
-    Informação sobre o formador:
-        Nome: Não definido
-        Foto:
-        Linked-in:
-
-
-Workshop #2 - Bitalino
+Informação sobre o formador:
+Nome: Não definido
+Foto:
+Linked-in:
 
 
 
+# Workshop #2 - Bitalino
 
 
 
-Workshop #3 - Como projetar uma Tag para animais marinhos - CEiiA
 
-Descrição: 
+
+
+# Workshop #3 - Como projetar uma Tag para animais marinhos - CEiiA
+
+## Descrição
 Com o aumento das atividades humanas sobre os habitats marinhos, torna-se cada vez mais importante aprofundar o conhecimento sobre os oceanos e quantificar os impactos da presença antropogénica nos mesmos. A monitorização de animais marinhos representa uma solução para este problema, muito embora de resolução complexa, quer seja pela grande mobilidade destes animais, pela inacessibilidade dos habitats marinhos, ou pelo impacto da presença humana que certos métodos de monitorização implicam. A monitorização in-situ com recurso a marcas instrumentadas colocadas nos animais, capazes de registar informações relativas à atividade do animal, ao seu habitat ou mesmo transmitir em tempo real a sua localização, surge como uma solução para a obtenção de dados com grande precisão, com o mínimo impacto para o animal. Assim, neste workshop serão apresentadas as principais problemáticas envolvidas no desenvolvimento deste tipo de dispositivos, sendo de seguida proposto às equipas o desafio de desenvolver uma configuração inovadora e mock-up da mesma.
 
 Atividade Hands on:
@@ -56,16 +58,15 @@ Preparação prévia: Não é necessária qualquer preparação prévia para par
 Duração: 2 horas
 
 Informação sobre o formador:
-    Nome: David Brandão
-    Empresa: CEIIA
-    Linked-in: https://www.linkedin.com/in/davidpinabrandao/ 
-
+Nome: David Brandão
+Empresa: CEIIA
+Linked-in: https://www.linkedin.com/in/davidpinabrandao/ 
 
 
  
-Workshop #4 - 101 - Manipulação e Exploração de dados em Python -
+# Workshop #4 - 101 - Manipulação e Exploração de dados em Python -
 
-    Objetivos gerais:
+## Objetivos gerais
 ● Configurar e utilizar um ambiente para, de forma autónoma, conseguir carregar,
 transformar e explorar um conjunto de dados.
 Objetivos específicos:
@@ -108,32 +109,29 @@ http://www.gowi-fi.pt/ (edited)
 
 
 
-Workshop #5
+# Workshop #5
     info
     
     
  
-Workshop #6 - Utilização de impressão 3D e resinas poliuretanas para iteração rápida de protótipos funcionais
+# Workshop #6 - Utilização de impressão 3D e resinas poliuretanas para iteração rápida de protótipos funcionais
 
-    Descrição: Os participantes vão aprender a tirar partido de duas técnicas de fabricação (uma digital, outra mais tradicional) de modo a fabricar protótipos funcionais a baixo custo com características que não seria facilmente alcançável de outra forma. Ao contrário do que acontece com a fabricação de um molde (mesmo de baixo custo), existe aqui a possibilidade de modificar o desenho da peça entre cada iteração.
+## Descrição 
+Os participantes vão aprender a tirar partido de duas técnicas de fabricação (uma digital, outra mais tradicional) de modo a fabricar protótipos funcionais a baixo custo com características que não seria facilmente alcançável de outra forma. Ao contrário do que acontece com a fabricação de um molde (mesmo de baixo custo), existe aqui a possibilidade de modificar o desenho da peça entre cada iteração.
 
-    Actividade Hands on: Sim
+Actividade Hands on: Sim
 
-    Requisitos: conhecimentos mínimos de programação, electrónica, etc / noções básicas de impressão 3D 
+Requisitos: conhecimentos mínimos de programação, electrónica, etc / noções básicas de impressão 3D 
 
-    Material fornecido aos participantes: Modelo impresso em 3D e resinas poliuretana.
+Material fornecido aos participantes: Modelo impresso em 3D e resinas poliuretana.
 
-    Material necessário: nenhum
+Material necessário: nenhum
 
-    Preparação prévia (Ler; Instalar; ...): Não necessário
+Preparação prévia (Ler; Instalar; ...): Não necessário
 
-    Duração: 1h
+Duração: 1h
 
-    Informação sobre os formadores:
-        Ricardo Pereira 
-        https://www.linkedin.com/in/ricardopereiradesigner/
-        
-        
-        Michaël Memeteau
-        https://www.linkedin.com/in/mmemetea/ 
+Informação sobre os formadores:
+Ricardo Pereira [linkedin](https://www.linkedin.com/in/ricardopereiradesigner/)
+Michaël Memeteau [linkedin](https://www.linkedin.com/in/mmemetea/)
 
