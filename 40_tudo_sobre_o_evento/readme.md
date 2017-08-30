@@ -105,3 +105,22 @@ Nascido em 1982 no Porto, Ricardo licenciou-se em Design Industrial na Faculdade
 Terminado o Mestrado Integrado em Engenharia Mecânica na Universidade de Aveiro em 2013 com uma dissertação sobre materiais compósitos, faz investigação na Universidade de Aveiro, durante 2 anos, na área dos metais. Em 2015 ingressa na OLI – Sistemas  Sanitários S.A. para o Departamento de Design e Desenvolvimento, onde exerce funções de design de produto, projeto de componentes poliméricos e gestão de projeto, entre outras.
 
 
+## Hugo Moreira / OLI
+
+![hugo moreira](http://rui.martins.pt/_HC/wp-content/uploads/2017/08/Hugo-Moreira-OLI.jpg)
+
+ Início de funções na OLI em 2005 como operador de injeção plástico. Passagem em 2010 para departamento desenvolvimento e conceção como técnico de produto. Atuação principal na formação de produto e aprovação de protótipos. Responsável pela assistência técnica nacional. Em 2016 transição para departamento de marketing e comunicação da empresa. Atualmente desenvolvo as seguintes funções:
+
+* Técnico de gestão do produto
+* Responsável por implementar projeto BIM na empresa.
+* Benchmarking
+* Formador de produto (interno e externo) 
+
+
+## Pedro Cruz / OLI
+
+![pedro cruz](http://rui.martins.pt/_HC/wp-content/uploads/2017/08/pedro_cruz.jpg)
+
+ Terminado o Mestrado Integrado em Engenharia Mecânica na Universidade de Aveiro em 2012, faz investigação e desenvolvimento para a Renault CACIA e posteriormente para a Bosch Termotecnologia. Em 2015 ingressa na OLI – Sistemas Sanitários S.A. para o Departamento de Design e Desenvolvimento, onde exerce funções de design de produto, projeto de peça e gestão de projeto, entre outras. 
+
+[LinkedIn](https://www.linkedin.com/in/pedro-cruz-56a0852a/)
