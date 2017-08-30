@@ -70,13 +70,7 @@ David Brandão é Mestre em Engenharia Aeroespacial pelo Instituto Superior Téc
 
 ![pedro patricio](http://rui.martins.pt/_HC/wp-content/uploads/2017/08/Pedro-Patricio-fotosite-220x220.jpg)
 
-Estudou Design de comunicação e técnicas de impressão na Escola António Arroio. Em seguida passou pelo ISCTE onde passou 3 anos pelo curso de Sociologia.
-Em seguida, no INESC/FUNDETEC, estudou linguagens de programação e gestão de sistemas informáticos.
-Depois de ter passado por diversos empregos sem grande história mas sempre ligados à computação gráfica, ingressou no grupo PT.
-Em 1996, foi um dos fundadores do departamento de desenvolvimento WEB da Telepac (Grupo PT) enquanto, fora de horas, trabalha como Digital designer para diversas agências de comunicação e dá aulas de Design digital na ETIC.
-Em 1998, seguindo o seu sonho de abrir uma agência de comunicação Digital, funda - em conjunto com o seu cúmplice de sempre, Nuno Silva -  a WIZ Interactive.
-Em 2000 faz o seu último trabalho de design e assume a gestão de projetos e clientes da WIZ Interactive.
-Trabalha clientes como IKEA, AUDI, OPTIMUS, Unilever, Galp entre muitos outros que cruzaram a rota da agência.
+Estudou Design de comunicação e técnicas de impressão na Escola António Arroio. Em seguida passou pelo ISCTE onde passou 3 anos pelo curso de Sociologia. Em seguida, no INESC/FUNDETEC, estudou linguagens de programação e gestão de sistemas informáticos. Depois de ter passado por diversos empregos sem grande história mas sempre ligados à computação gráfica, ingressou no grupo PT. Em 1996, foi um dos fundadores do departamento de desenvolvimento WEB da Telepac (Grupo PT) enquanto, fora de horas, trabalha como Digital designer para diversas agências de comunicação e dá aulas de Design digital na ETIC. Em 1998, seguindo o seu sonho de abrir uma agência de comunicação Digital, funda - em conjunto com o seu cúmplice de sempre, Nuno Silva - a WIZ Interactive. Em 2000 faz o seu último trabalho de design e assume a gestão de projetos e clientes da WIZ Interactive. Trabalha Clientes como IKEA, AUDI, OPTIMUS, Unilever, Galp entre muitos outros que cruzaram a rota da agência. Em 18 anos, a Wiz Interactive ganhou 87 prémios e nomeações nacionais e internacionais. Foi membro de júris de diversos festivais de criatividade nacionais e Internacionais como o Clube de Criativos de Portugal, Criatividade Lusófona, Cannes Young Lions e EL OJO de Ibero America. Integra a direcção do Clube de Criativos de Portugal desde 2011. 
 
 
 ## André Leite Ferreira / Bosch
