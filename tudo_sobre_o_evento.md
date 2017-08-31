@@ -124,3 +124,30 @@ Terminado o Mestrado Integrado em Engenharia Mecânica na Universidade de Aveiro
  Terminado o Mestrado Integrado em Engenharia Mecânica na Universidade de Aveiro em 2012, faz investigação e desenvolvimento para a Renault CACIA e posteriormente para a Bosch Termotecnologia. Em 2015 ingressa na OLI – Sistemas Sanitários S.A. para o Departamento de Design e Desenvolvimento, onde exerce funções de design de produto, projeto de peça e gestão de projeto, entre outras. 
 
 [LinkedIn](https://www.linkedin.com/in/pedro-cruz-56a0852a/)
+
+
+## Vitor Soares / ClusterMedia Labs
+
+![vitor soares](img/mentores/Pedro_Cruz.jpg)
+
+Vitor Soares had developed advanced audiovisual analysis algorithms to automatically generate metadata from Live Broadcast 'Feeds', and publish online digital media content searchable in the following categories:
+
+* Speakers
+* Program codes
+* Commercials
+* Jingles
+* Singers
+* Keywords
+* Musical Genres
+
+The automatic real-time recognition of people and events in video footage is achieved by semantic audio analysis and is available in [livemeans](www.livemeans.com).
+
+Specialties: - Audio-Visual Real-Time Recognition
+* On-the-fly Automatic Metadata Generation
+* Content-Based Music Discovery & Retrieval Engine
+
+This technology will introduce mobile music users to new usages:
+* Find songs (drag & search) easily by way of acoustic similarity with recent material releases (novelty & relevance).
+* Improves current discovery tools in music recommendation and mitigates obstacles related to scalability, “cold-start” and one-sized selections. 
+
+[LinkedIn](https://www.linkedin.com/in/vitorsoares/)
