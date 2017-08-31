@@ -157,6 +157,7 @@ O objectivo deste workshop é os formandos poderem ter contacto com a plataforma
 
 ## Informação sobre o formador
 Nome: Francisco Mendes
+
 Linked-in: [linkedin](https://www.linkedin.com/in/franciscomendes75/)
 
  
@@ -178,6 +179,6 @@ Os participantes vão aprender a tirar partido de duas técnicas de fabricação
 **Duração:** 1h
 
 ## Informação sobre os formadores
-Ricardo Pereira [linkedin](https://www.linkedin.com/in/ricardopereiradesigner/)
-Michaël Memeteau [linkedin](https://www.linkedin.com/in/mmemetea/)
+Ricardo Pereira [linkedin](https://www.linkedin.com/in/ricardopereiradesigner)
 
+Michaël Memeteau [linkedin](https://www.linkedin.com/in/mmemetea)
