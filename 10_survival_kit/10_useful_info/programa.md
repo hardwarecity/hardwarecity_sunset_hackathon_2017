@@ -10,7 +10,6 @@ O programa é apresentado no seguinte esquema:
 | 12h00 - 13h00 | Almoço      | | | | 
 | 13h30 - 14h00 | Welcoming      | Cool room |||
 | 15h00 | Workshop 1 - Bosch      | Cool room | Workshop 2 - Bitalino |  Innovation room |
-| 15h30 | Workshop 3 - CEiiA      | Cool room | Workshop 2 - Bitalino |  Innovation room |
 | 16h20 - 16h40 | Lanche      |    | | | 
 | 16h40 | Workshop 3 - CEiiA      | Cool room | Workshop 4 - Data Science | Innovation room |
 | 17h30 - 18h30 | Workshop 3 - CEiiA      | Cool room | Workshop 1 - Bosch TBC |  Innovation room |
