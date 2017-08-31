@@ -1,5 +1,5 @@
 
-![img](https://raw.githubusercontent.com/HardwareCity/hardwarecity_sunset_hackathon_2017/master/10_survival_kit/20_tutorials/img/hc_sh_fb_banner.jpg)
+![img](img/hc_sh_fb_banner.jpg)
 
 # Introdução ao Git e GitHub
 
