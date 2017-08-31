@@ -18,7 +18,7 @@ O público alvo deste evento são todas as pessoas com perfil criativo e inovado
 
 ## Hugo Plácido da Silva / Bitalino
 
-![hugo bitalino](http://rui.martins.pt/_HC/wp-content/uploads/2017/07/Hugo-Silva-Bitalinho-_-linkedin-photo.jpg)
+![hugo bitalino](img/mentores/Hugo_Placido.jpg)
 
 Hugo acredita que é uma das poucas pessoas sortudas que pode dizer que trabalhou muitos poucos dias na sua vida… não por falta de emprego (felizmente), mas porque quando tu fazes coisas que amas, e estás apaixonado por quase todos os dias, não há limites entre o que é o trabalho e o que é pura diversão. 
 
