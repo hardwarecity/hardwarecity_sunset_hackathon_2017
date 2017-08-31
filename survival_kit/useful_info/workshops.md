@@ -179,6 +179,28 @@ Os participantes vão aprender a tirar partido de duas técnicas de fabricação
 **Duração:** 1h
 
 ## Informação sobre os formadores
-Ricardo Pereira [linkedin](https://www.linkedin.com/in/ricardopereiradesigner)
-
+Ricardo Pereira [linkedin](https://www.linkedin.com/in/ricardopereiradesigner) / 
 Michaël Memeteau [linkedin](https://www.linkedin.com/in/mmemetea)
+
+
+# Workshop #7 - Como sincronizar informação contextual (on-demand e Live) em plataformas de conteúdos Video OTT (Over-The-Top)  
+
+## Descrição 
+Os participantes terão a oportunidade de conhecer técnicas de broadcasting em que audio, vídeo e outros conteúdos media transmitidos pela Internet controlando a sua distribuição.
+
+**Actividade Hands on:** Sim
+
+**Requisitos:** N/A
+
+**Material fornecido aos participantes:** N/A
+
+**Material necessário:** Laptop
+
+**Preparação prévia:** N/A
+
+**Duração:** 1h
+
+## Informação sobre os formadores
+Vitor Soares [linkedin](https://www.linkedin.com/in/vitorsoares/) 
+**Empresa** ClusterMedia Labs
+
