@@ -49,6 +49,7 @@ O programa é apresentado no seguinte esquema:
 **PiNG:** Reunião com representantes de cada equipa.
 
 Cada representante tem 1 minuto para se apresentar e identificar:
+
 **Progress** – Progresso no desenvolvimento do projeto desde o último PiNG;
 
 **Needs** – Necessidades da equipa;
