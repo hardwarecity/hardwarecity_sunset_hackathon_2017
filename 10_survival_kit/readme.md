@@ -10,7 +10,7 @@
 * Que tens todo o material de que necessitas para desenvolver
 * Que a tua equipa está organizada e as linhas de trabalho estão definidas
 * Que os teus pais, cônjuges ou pares têm conhecimento de onde vais estar 
-* Que tens tudo o que necessitas para sobreviver três num ambiente fora da tua zona de conforto. Lembra-te que a organização providencia os recursos essenciais ao teu bem-estar mas não se responsabiliza por ti nem tem conhecimento de eventuais necessidades especiais da tua parte
+* Que tens tudo o que necessitas para sobreviver três dias num ambiente fora da tua zona de conforto. Lembra-te que a organização providencia os recursos essenciais ao teu bem-estar mas não se responsabiliza por ti nem tem conhecimento de eventuais necessidades especiais da tua parte
 
 # Onde poderás descansar?
 
