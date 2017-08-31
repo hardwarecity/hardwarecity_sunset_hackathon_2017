@@ -46,10 +46,13 @@ O programa é apresentado no seguinte esquema:
 | 15h30 | Atribuição dos prémios           | | 
 | 16h00 | Encerramento         | | 
 
-H3 PiNG: H3 Reunião com representantes de cada equipa.
+**PiNG:** Reunião com representantes de cada equipa.
+
 Cada representante tem 1 minuto para se apresentar e identificar:
-Progress – Progresso no desenvolvimento do projeto desde o último PiNG;
-Needs – Necessidades da equipa;
-Goals – Objetivos até ao próximo PiNG.
+**Progress** – Progresso no desenvolvimento do projeto desde o último PiNG;
+
+**Needs** – Necessidades da equipa;
+
+**Goals** – Objetivos até ao próximo PiNG.
 
 A organização reserva-se o direito de fazer ajustes no programa.
