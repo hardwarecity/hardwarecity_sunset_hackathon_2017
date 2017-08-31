@@ -151,3 +151,4 @@ This technology will introduce mobile music users to new usages:
 * Improves current discovery tools in music recommendation and mitigates obstacles related to scalability, “cold-start” and one-sized selections. 
 
 [LinkedIn](https://www.linkedin.com/in/vitorsoares/)
+[Company](http://www.clustermedialabs.com/)
