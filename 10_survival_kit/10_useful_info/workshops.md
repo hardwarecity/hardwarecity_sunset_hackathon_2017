@@ -19,15 +19,41 @@ Desenvolvimento de uma plataforma de processamento de sinal em tempo real para s
 ## Informação sobre o formador
 **Nome:** TBA
 
-**Foto** TBA 
-
 **Empresa:** Bosch
 
 
 # Workshop #2 - Bitalino
 
+## Descrição 
+Physiological data has had a transforming role on multiple aspects of society, which goes beyond the health sciences domains to which they were traditionally associated with. While biomedical engineering is a classical discipline where the topic is amply covered, today physiological data is a matter of interest for students, researchers and hobbyists in areas ranging from arts, programming, engineering, among others. Regardless of the context, the use physiological in experimental activities and practical projects is heavily bounded by the cost and limited access to adequate support materials.
 
-info
+In this workshop we will focus on BITalino, a versatile toolkit composed of low-cost hardware and software, and created to enable anyone to create cool projects and applications involving physiological data. The hardware consists of a modular wireless biosignal acquisition system that can be used to acquire data in real time, interface with other devices (e.g. Arduino or Raspberry PI), or perform rapid prototyping of end-user applications. The software comprehends a set of programming APIs, a biosignal processing toolbox, and a framework for real time data acquisition and postprocessing.
+
+
+**Actividade Hands on:** Sim
+
+**Requisitos:** Preferably basic electronics and Python, but there is no hardware requirement.
+
+**Material fornecido aos participantes:** 5 kits bitalino
+
+**Material pessoal:** Laptop
+
+**Preparação prévia:**
+Anaconda Python 2.7: [link](https://www.continuum.io/downloads)
+
+OpenSignals 2017: [link](http://bitalino.com/en/software)
+
+BITalino Python API: [link](https://github.com/BITalinoWorld/revolution-python-api)
+
+**Duração:** 45 a 60 minutos
+
+
+## Informação sobre o formador:
+
+**Nome:** Hugo Silva
+**Linked-in:** [link](https://www.linkedin.com/in/hugo-silva-0661763/)
+
+
 
 
 # Workshop #3 - Como projetar uma Tag para animais marinhos - CEiiA
