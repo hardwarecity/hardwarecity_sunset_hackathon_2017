@@ -22,7 +22,7 @@ Desenvolvimento de uma plataforma de processamento de sinal em tempo real para s
 **Empresa:** Bosch
 
 
-# Workshop #2 - Bitalino
+# Workshop #2 - Getting Started with BITalino - Bitalino
 
 ## Descrição 
 Physiological data has had a transforming role on multiple aspects of society, which goes beyond the health sciences domains to which they were traditionally associated with. While biomedical engineering is a classical discipline where the topic is amply covered, today physiological data is a matter of interest for students, researchers and hobbyists in areas ranging from arts, programming, engineering, among others. Regardless of the context, the use physiological in experimental activities and practical projects is heavily bounded by the cost and limited access to adequate support materials.
@@ -50,8 +50,7 @@ BITalino Python API: [link](https://github.com/BITalinoWorld/revolution-python-a
 
 ## Informação sobre o formador:
 
-**Nome:** Hugo Silva
-**Linked-in:** [link](https://www.linkedin.com/in/hugo-silva-0661763/)
+**Nome:** Hugo Silva / **Linked-in:** [link](https://www.linkedin.com/in/hugo-silva-0661763/)
 
 
 
