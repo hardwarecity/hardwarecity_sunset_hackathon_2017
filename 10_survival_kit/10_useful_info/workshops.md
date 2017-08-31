@@ -139,9 +139,26 @@ DSPT is a community of data science enthusiasts with the purpose of allowing the
 
 
 # Workshop #5
-    info
-    
-    
+
+## Descrição
+O objectivo deste workshop é os formandos poderem ter contacto com a plataforma Arduino, conhecer alguns componentes electrónicos e saber que nunca usaram ou pouco, Arduinos e Led’s e cenas electrónicas, possam conseguir 
+
+**Actividade Hands on:** Sim
+
+**Requisitos:** Não são necessários conhecimentos mínimos, mas se souberes um pouco de programação e ligar uns fios eléctricos ajuda. 
+
+**Material fornecido aos participantes:** Arduinos, sensores e uns fios...
+
+**Material pessoal:** Laptop
+
+**Preparação prévia:** Instalar o software IDE Arduino. https://www.arduino.cc/en/Main/Software
+
+**Duração:** 60 min
+
+## Informação sobre o formador
+Nome: Francisco Mendes
+Linked-in: [linkedin](https://www.linkedin.com/in/franciscomendes75/)
+
  
 # Workshop #6 - Utilização de impressão 3D e resinas poliuretanas para iteração rápida de protótipos funcionais 
 
