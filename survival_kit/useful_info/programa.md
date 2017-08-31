@@ -1,7 +1,6 @@
 # Programa
 
 O programa é apresentado no seguinte esquema:
-*Hora* - Evento [Onde]
 
 *1/9 - Sexta-feira*
 
