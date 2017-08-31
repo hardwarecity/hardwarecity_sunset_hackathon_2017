@@ -1,6 +1,6 @@
 Todas as equipas têm uma pasta partilhada no drive onde poderão deixar todos os conteúdos necessários ao desenvolvimento.
 
-A equipa do HwC criou uma BOM (Bill of materials ou lista de material) para cada equipa que já está na respectiva pasta.
+A equipa do **Hardware City** criou uma BOM (Bill Of Materials ou lista de material) para cada equipa que já está na respectiva pasta.
 
 Para aceder à pasta da equipa deves:
 
