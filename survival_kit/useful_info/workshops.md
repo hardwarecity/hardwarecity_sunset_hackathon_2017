@@ -138,7 +138,7 @@ DSPT is a community of data science enthusiasts with the purpose of allowing the
 **Instituição:** Data Science Portugal
 
 
-# Workshop #5
+# Workshop #5 - Android Crash Course
 
 ## Descrição
 O objectivo deste workshop é os formandos poderem ter contacto com a plataforma Arduino, conhecer alguns componentes electrónicos e saber que nunca usaram ou pouco, Arduinos e Led’s e cenas electrónicas, possam conseguir 
