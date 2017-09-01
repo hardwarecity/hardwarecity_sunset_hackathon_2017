@@ -20,12 +20,15 @@ https://appear.in/
 Entrar no site e o membro da equipa cria um canal como na imagem em baixo. Sugerimos a inclusão da equipa no canal para facilitar a comunicação. 
 
 Algo do género: “sunhackteamXX”
+![img](img/image1.png)
 
 
 b) Validar caso seja necessário:
+![img](img/image2.png)
 
 
 c) Utilizar:
+![img](img/image3.png)
 
 
 Simples.
