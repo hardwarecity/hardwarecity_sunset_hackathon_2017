@@ -1,5 +1,4 @@
-TO DO : Inserir as imagens
-
+# Appear.In
 
 
 O Appear In  é uma ferramenta para chamadas e conferências online que permite a articulação de chamadas com várias pessoas com o mínimo de esforço, bastando apenas a configuração de um canal dando-lhe um nome e passar um link para os colegas.
