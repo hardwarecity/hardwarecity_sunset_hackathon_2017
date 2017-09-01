@@ -22,18 +22,18 @@ O programa é apresentado no seguinte esquema:
 
 *2/9 - Sábado*
 
-| Hora          | Atividade         | Local  | 
-| --------------- |:---------------------:|:------------:|
-| 08h00 | Alvorada       | | 
-| 09h00 | Pequeno-almoço | | 
-| 11h00 | PiNG           | | 
-| 13h00 | Almoço         | | 
-| 15h00 | Workshop 6 - Product dev        |   Cool room  | 
-| 16h00 | Lanche         | | 
-| 17h00 | Workshop 5 - Arduino Crash Course         |  Cool room  |
-| 18h00 | PiNG           | | 
-| 19h00 | Jantar         | | 
-| 20h00 | Sunset Party   | | 
+| Hora          | Atividade 1        | Local  | Atividade 2 | Local 2 | 
+| --------------- |:---------------------:|:------------:|:----------:|:----------:|
+| 08h00 | Alvorada       | | | |
+| 09h00 | Pequeno-almoço | |  | |
+| 11h00 | PiNG           | |  | |
+| 13h00 | Almoço         | |  | |
+| 15h00 | Workshop 6 - Product dev        |   Cool room  |  | |
+| 16h00 | Lanche         | |  | |
+| 17h00 | Workshop 5 - Arduino Crash Course         |  Cool room  | Workshop 7 - Sincronizar on-demand e Live em OTT | Innovation Room |
+| 18h00 | PiNG           | |  | |
+| 19h00 | Jantar         | |  | |
+| 20h00 | Sunset Party   | |  | |
 
 *3/9 - Domingo*
 
