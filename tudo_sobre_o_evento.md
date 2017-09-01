@@ -130,25 +130,17 @@ Terminado o Mestrado Integrado em Engenharia Mecânica na Universidade de Aveiro
 
 ![vitor soares](img/mentores/Vitor_Soares.jpg)
 
-Vitor Soares had developed advanced audiovisual analysis algorithms to automatically generate metadata from Live Broadcast 'Feeds', and publish online digital media content searchable in the following categories:
+Vitor Soares has dedicated the last 15 years to audio semantic analysis R&D, noticing this emergent area in the Telecommunications and Multimedia Unit of the INESC TEC  where he joined the ORBIT project, a partnership with BBC. He Co-founded ClusterMedia Labs,  a company  recognized for its strong “Over the top” Audiovisual Solutions  and  research team with a background in the fields of computer science, namely automatic metadata extraction.
 
-* Speakers
-* Program codes
-* Commercials
-* Jingles
-* Singers
-* Keywords
-* Musical Genres
+His academic background is in fields of Computer Science (Bachelor of Electric Engineering from the Coimbra Institute of Engineering Coimbra and Attended the Master in Electrical and Computers Engineering in the Faculty of Engineering, Porto University  - FEUP) and Entrepreneurship  in the Porto Business School. Amongst his scientific works & contributions is the “Music Information Retrieval “ and Automatic Content Recognition field where the algorithms submitted was acclaimed as one of the top 3, being the state-of-the-art in audio content retrieval.
 
-The automatic real-time recognition of people and events in video footage is achieved by semantic audio analysis and is available in [livemeans](www.livemeans.com).
+Vitor Soares had developed advanced audiovisual analysis algorithms to automatically generate metadata from Live Streams/feeds, and publish online digital media content searchable in the following categories: Speakers/Voice ID; Program codes; Commercials; Singers; Keywords; Musical Genres; The automatic real-time recognition of people and events in video footage is achieved by semantic audio analysis.
 
-Specialties: - Audio-Visual Real-Time Recognition
-* On-the-fly Automatic Metadata Generation
-* Content-Based Music Discovery & Retrieval Engine
-
-This technology will introduce mobile music users to new usages:
-* Find songs (drag & search) easily by way of acoustic similarity with recent material releases (novelty & relevance).
-* Improves current discovery tools in music recommendation and mitigates obstacles related to scalability, “cold-start” and one-sized selections. 
+Specialties: 
+- Audio-Visual Real-Time Recognition
+- On-the-fly Automatic Metadata Generation
+- Content-Based Music Discovery & Retrieval Engine
+- Contextual access to previously sources of information
 
 [LinkedIn](https://www.linkedin.com/in/vitorsoares/)
 [Company](http://www.clustermedialabs.com/)
