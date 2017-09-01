@@ -128,7 +128,7 @@ Terminado o Mestrado Integrado em Engenharia Mecânica na Universidade de Aveiro
 
 ## Vitor Soares / ClusterMedia Labs
 
-![vitor soares](img/mentores/Pedro_Cruz.jpg)
+![vitor soares](http://rui.martins.pt/_HC/wp-content/uploads/2017/09/vcsoares_400x400_.jpg)
 
 Vitor Soares had developed advanced audiovisual analysis algorithms to automatically generate metadata from Live Broadcast 'Feeds', and publish online digital media content searchable in the following categories:
 
